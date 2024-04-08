@@ -1,1 +1,0 @@
-_all_ = ["cookpad","dailycook","icook","kitchen_story","yuntow"]

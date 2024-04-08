@@ -15,11 +15,11 @@ from dataframe import *
 import pandas as pd
 import urllib.request
 import json
-from kitchen_story import *
+from web_crawler.kitchen_story import *
 from googletrans import Translator
 import cv2 as cv
 import torch 
-torch.hub.set_dir('D:/課程學習/政大課程/研究所課程/統計諮詢/linebot/food-recognition/yolov5')
+torch.hub.set_dir('yolov5')
 #from linebot.models.send_messages import ImageSendMessage
 
 #from moon import *
